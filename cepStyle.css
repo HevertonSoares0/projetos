@@ -1,0 +1,66 @@
+header{
+  text-align: center;
+  font-size: 32px;
+  color: whitesmoke;
+}
+body{
+    background-color: black;
+}
+.nav {
+    /*left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;*/
+    color: whitesmoke;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: white;
+    padding:20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+
+.campos{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.inputs{
+    background-color:whitesmoke;
+    display: block;
+    
+    width: 300px;
+    left: 2000px;
+}
+
+.botao{
+    position: relative;
+    width: 200px;
+    text-align: center;
+    margin-left:200px;
+    margin-top: 20px;
+
+}
+
+footer{
+    font-size: 32px;
+    text-align: center;
+    top: 20px;
+    color: white;
+}
+
+
+/*.label {
+    display: block;
+}
+
+.div {
+    width: 10px;
+    padding-top: 30px;
+}
+
+.inputs {
+    width: 300px;
+    padding-top: 10px;
+    margin-top: 5px;
+}
